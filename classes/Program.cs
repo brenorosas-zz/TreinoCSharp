@@ -27,7 +27,7 @@ namespace classes
                 Console.WriteLine(e.ToString());
             }
             Console.WriteLine(account.GetAccountHistory());
-            Console.WriteLine("Test");
+            Console.WriteLine("Testando git");
             var giftCard = new GiftCardAccount("gift card", 100, 50);
             giftCard.MakeWithdrawal(20, DateTime.Now, "get expensive coffee");
             giftCard.MakeWithdrawal(50, DateTime.Now, "buy groceries");
