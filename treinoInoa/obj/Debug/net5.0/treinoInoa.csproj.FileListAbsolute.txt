@@ -1,0 +1,16 @@
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\treinoInoa.exe
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\treinoInoa.deps.json
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\treinoInoa.runtimeconfig.json
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\treinoInoa.runtimeconfig.dev.json
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\treinoInoa.dll
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\ref\treinoInoa.dll
+C:\Users\breno\TreinoCSharp\treinoInoa\bin\Debug\net5.0\treinoInoa.pdb
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.csprojAssemblyReference.cache
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.AssemblyInfoInputs.cache
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.AssemblyInfo.cs
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.csproj.CoreCompileInputs.cache
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.dll
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\ref\treinoInoa.dll
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.pdb
+C:\Users\breno\TreinoCSharp\treinoInoa\obj\Debug\net5.0\treinoInoa.genruntimeconfig.cache
