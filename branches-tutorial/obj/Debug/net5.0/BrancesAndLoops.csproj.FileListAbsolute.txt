@@ -1,0 +1,16 @@
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\BrancesAndLoops.exe
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\BrancesAndLoops.deps.json
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\BrancesAndLoops.runtimeconfig.json
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\BrancesAndLoops.runtimeconfig.dev.json
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\BrancesAndLoops.dll
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\ref\BrancesAndLoops.dll
+C:\Users\breno\treinoC#\branches-tutorial\bin\Debug\net5.0\BrancesAndLoops.pdb
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.csprojAssemblyReference.cache
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.AssemblyInfoInputs.cache
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.AssemblyInfo.cs
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.dll
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\ref\BrancesAndLoops.dll
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.pdb
+C:\Users\breno\treinoC#\branches-tutorial\obj\Debug\net5.0\BrancesAndLoops.genruntimeconfig.cache

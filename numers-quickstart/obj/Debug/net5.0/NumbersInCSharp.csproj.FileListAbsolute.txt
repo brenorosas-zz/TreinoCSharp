@@ -1,0 +1,16 @@
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\NumbersInCSharp.exe
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\NumbersInCSharp.deps.json
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.dev.json
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\NumbersInCSharp.dll
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\ref\NumbersInCSharp.dll
+C:\Users\breno\treinoC#\numers-quickstart\bin\Debug\net5.0\NumbersInCSharp.pdb
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.csprojAssemblyReference.cache
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.dll
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\ref\NumbersInCSharp.dll
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.pdb
+C:\Users\breno\treinoC#\numers-quickstart\obj\Debug\net5.0\NumbersInCSharp.genruntimeconfig.cache
