@@ -43,7 +43,7 @@ namespace classes{
             if (overdraftTransaction != null)
             allTransactions.Add(overdraftTransaction);
         }
-        protected virtual Transaction? CheckWithdrawalLimit(bool isOverdrawn){
+        protected virtual Transaction CheckWithdrawalLimit(bool isOverdrawn){
             if (isOverdrawn){
                 throw new InvalidOperationException("Not sufficient funds for this withdrawal");
             }
