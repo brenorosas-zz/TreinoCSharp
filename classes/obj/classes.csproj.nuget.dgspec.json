@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breno\\treinoC#\\classes\\classes.csproj": {}
+    "C:\\Users\\breno\\TreinoCSharp\\classes\\classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breno\\treinoC#\\classes\\classes.csproj": {
+    "C:\\Users\\breno\\TreinoCSharp\\classes\\classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breno\\treinoC#\\classes\\classes.csproj",
+        "projectUniqueName": "C:\\Users\\breno\\TreinoCSharp\\classes\\classes.csproj",
         "projectName": "classes",
-        "projectPath": "C:\\Users\\breno\\treinoC#\\classes\\classes.csproj",
+        "projectPath": "C:\\Users\\breno\\TreinoCSharp\\classes\\classes.csproj",
         "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breno\\treinoC#\\classes\\obj\\",
+        "outputPath": "C:\\Users\\breno\\TreinoCSharp\\classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config"
